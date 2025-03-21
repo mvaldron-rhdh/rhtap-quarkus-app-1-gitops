@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/mvaldron-rhdh/rhtap-quarkus-app-1:b4642882cd2452f2b53abe1e9c523924ad4de8ff@sha256:9d1f4c970b886083d1ca43424df72dc1e5d2620e1c5f2c2d4164ed0c72f30347
+        - image: quay.io/mvaldron-rhdh/rhtap-quarkus-app-1:5a29fb1bb2d85fb1c972a2de111e327a4e3ff927@sha256:ef17d0aeadc6fef0741c5fde2b105ab70959af2e761fa73275a563930c65f704
           name: container-image

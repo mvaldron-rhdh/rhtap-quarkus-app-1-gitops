@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rhtap-quarkus-app-1-repository
+spec:
+  url: https://github.com/mvaldron-rhdh/rhtap-quarkus-app-1
